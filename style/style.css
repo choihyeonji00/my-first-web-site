@@ -224,7 +224,7 @@ body ,html {width:1920px; overflow-x:auto !important; font-family: 'Noto Sans KR
     width:50px; height:50px; text-align: center;
     line-height:50px; font-weight:500;
 }
-#wrap .section .section2 > .right2 > .skills > ul > li > span {color:#50a4dd; margin-left:8px; line-height:1.2em;}
+#wrap .section .section2 > .right2 > .skills > ul > li > span {color:#020202; margin-left:8px; line-height:1.2em;}
 /* 섹션3 */
 #wrap .section:nth-child(3){background: #FDFBF1;}
 #wrap .section .top_title {
