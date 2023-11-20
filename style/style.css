@@ -132,7 +132,7 @@ body ,html {width:1920px; overflow-x:auto !important; font-family: 'Noto Sans KR
     display:flex; margin-left:5px;
 }
 #wrap .section .section2 > .left2 > .left_mide2 > ul > li > .personality > li {
-    margin-right:12px; color:#FDFBF1; background:#50a4dd; padding:10px 15px;
+    margin-left:10px; color:#FDFBF1; background:#50a4dd; padding:10px 15px;
     border-radius:50px;
 }
 #wrap .section .section2 > .left2 > .left_mide2 > ul > li > .personality > li:last-child {margin-right:0;}
@@ -186,7 +186,7 @@ body ,html {width:1920px; overflow-x:auto !important; font-family: 'Noto Sans KR
 #wrap .section .section2 > .right2 > .education > ul > li {display:flex; margin-bottom:15px;}
 #wrap .section .section2 > .right2 > .education > ul > li:last-child {margin-bottom:0;}
 #wrap .section .section2 > .right2 > .education > ul > li > p:first-child {font-weight:500;}
-#wrap .section .section2 > .right2 > .education > ul > li > p {margin-right:15px; color:#50a4dd;}
+#wrap .section .section2 > .right2 > .education > ul > li > p {margin-right:15px; color:#0a0a0a;}
 
 #wrap .section .section2 > .right2 > .experience {margin-bottom:48px;}
 #wrap .section .section2 > .right2 > .experience > .top2 {display:flex; align-items: center; margin-bottom:16px;}
@@ -196,7 +196,7 @@ body ,html {width:1920px; overflow-x:auto !important; font-family: 'Noto Sans KR
 #wrap .section .section2 > .right2 > .experience > ul > li {display:flex; margin-bottom:15px;}
 #wrap .section .section2 > .right2 > .experience > ul > li:last-child {margin-bottom:0;}
 #wrap .section .section2 > .right2 > .experience > ul > li > p:first-child {font-weight:500;}
-#wrap .section .section2 > .right2 > .experience > ul > li > p {margin-right:15px; color:#50a4dd;}
+#wrap .section .section2 > .right2 > .experience > ul > li > p {margin-right:15px; color:#000000;}
 /* -------------- */
 #wrap .section .section2 > .right2 > .license {margin-bottom:52px;}
 #wrap .section .section2 > .right2 > .license > .mide2 {display:flex; align-items: center; margin-bottom:16px;}
@@ -206,7 +206,7 @@ body ,html {width:1920px; overflow-x:auto !important; font-family: 'Noto Sans KR
 #wrap .section .section2 > .right2 > .license > ul > li {display:flex; margin-bottom:15px;}
 #wrap .section .section2 > .right2 > .license > ul > li:last-child {margin-bottom:0;}
 #wrap .section .section2 > .right2 > .license > ul > li > p:first-child {margin-right:15px;}
-#wrap .section .section2 > .right2 > .license > ul > li > p {color:rgb(37, 142, 241);}
+#wrap .section .section2 > .right2 > .license > ul > li > p {color:rgb(0, 0, 0);}
 #wrap .section .section2 > .right2 > .skills {width:600px;}
 #wrap .section .section2 > .right2 > .skills > .btn2 {display:flex; align-items: center; margin-bottom:26px;}
 #wrap .section .section2 > .right2 > .skills > .btn2 > img {margin-right:9px;}
@@ -243,7 +243,7 @@ body ,html {width:1920px; overflow-x:auto !important; font-family: 'Noto Sans KR
     font-weight: 700;
     font-style: normal;
     font-size:3.6rem;
-    color:rgba(70, 130, 169, 0.60);
+    color:#50a4dd;
     margin:0 10px;
 }
 #wrap .section .top_title2 > .nunber {
